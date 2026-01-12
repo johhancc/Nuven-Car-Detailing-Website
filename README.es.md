@@ -55,12 +55,12 @@ Construida con una filosofía "Mobile-First" y "Centrada en el Usuario", resuelv
 La demo en vivo representa exactamente lo que recibirás. Tienes dos opciones de compra:
 
 ### 1. Standard Delivery (As-Is)
-- **Price: $4,999 USD** *(Negotiable)*
+- **Price: $5,999 USD** *(Negotiable)*
 - You receive the full source code exactly as seen in the hosted demo.
 - Perfect for developers or agencies who want to handle the customization themselves.
 
 ### 2. Turnkey Service (Custom Setup)
-- **Add-on Fee: +$1,499 USD**
+- **Add-on Fee: +$1,000 USD**
 - **Yo me encargo de todo el rebranding por ti.**
 - Incluye: Actualización de todos los datos de contacto, logotipos, esquemas de color, traducciones i18n y tablas de precios para que coincidan con tu negocio específico.
 - Al final recibes: Una plataforma 100% lista para lanzar, entregada en 3-5 días.

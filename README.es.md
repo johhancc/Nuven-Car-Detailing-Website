@@ -17,16 +17,16 @@
 ## 📸 Galería de Funcionalidades
 
 ### 🛒 Flujo de Reserva
-![Demo de Reserva](./capturas/booking-flow.gif)
+<video src="./capturas/booking.mp4" controls width="100%"></video>
 
 ### 📊 Dashboard
-![Demo del Dashboard](./capturas/dashboard.gif)
+<video src="./capturas/dashboard.mp4" controls width="100%"></video>
 
 ### 📊 Panel de Administración
-![Demo del Dashboard de Admin](./capturas/adminDashboard.gif)
+<video src="./capturas/adminDashboard.mp4" controls width="100%"></video>
 
 ### 📍 Rastreador en Tiempo Real
-![Demo del Rastreador en Tiempo Real](./capturas/realtimetracker.gif)
+<video src="./capturas/realtimetracker.mp4" controls width="100%"></video>
 
 ---
 

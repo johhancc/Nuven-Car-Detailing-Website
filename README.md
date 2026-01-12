@@ -17,16 +17,16 @@
 ## 📸 Feature Gallery
 
 ### 🛒 Booking Flow
-![Booking Demo](./capturas/booking-flow.gif)
+<video src="./capturas/booking.mp4" controls width="100%"></video>
 
 ### 📊 Dashboard
-![Dashboard Demo](./capturas/dashboard.gif)
+<video src="./capturas/dashboard.mp4" controls width="100%"></video>
 
 ### 📊 Admin Dashboard
-![Admin Dashboard Demo](./capturas/adminDashboard.gif)
+<video src="./capturas/adminDashboard.mp4" controls width="100%"></video>
 
 ### 📍 Real-Time Tracker
-![Real-Time Tracker Demo](./capturas/realtimetracker.gif)
+<video src="./capturas/realtimetracker.mp4" controls width="100%"></video>
 
 ---
 

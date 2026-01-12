@@ -122,3 +122,10 @@ Included with the sale:
 - **Documentation**: Detailed guide on how to deploy.
 
 ---
+
+## 📞 Contact & Inquiries
+
+Ready to start? Have questions about the pricing or the tech?
+
+- **Discord**: `johan123`
+- **Email**: `jxhhxn01@gmail.com`

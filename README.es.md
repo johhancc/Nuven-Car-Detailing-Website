@@ -122,3 +122,10 @@ Incluido con la venta:
 - **Documentación**: Guía detallada sobre cómo desplegar.
 
 ---
+
+## 📞 Contacto y Consultas
+
+¿Listo para comenzar? ¿Tienes preguntas sobre el precio o la tecnología?
+
+- **Discord**: `johan123`
+- **Email**: `jxhhxn01@gmail.com`

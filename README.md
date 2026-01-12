@@ -104,7 +104,7 @@ Built on the **T3 Stack** philosophy for maximum type safety and developer produ
 ![Dashboard Demo](./capturas/dashboard.gif)
 
 ### 📊 Admin Dashboard
-![Admin Dashboard Demo](./capturas/admindashboard.gif)
+![Admin Dashboard Demo](./capturas/adminDashboard.gif)
 
 ### 📍 Real-Time Tracker
 ![Real-Time Tracker Demo](./capturas/realtimetracker.gif)

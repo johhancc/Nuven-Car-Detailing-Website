@@ -14,6 +14,22 @@
 
 ---
 
+## 📸 Feature Gallery
+
+### 🛒 Booking Flow
+![Booking Demo](./capturas/booking-flow.gif)
+
+### 📊 Dashboard
+![Dashboard Demo](./capturas/dashboard.gif)
+
+### 📊 Admin Dashboard
+![Admin Dashboard Demo](./capturas/adminDashboard.gif)
+
+### 📍 Real-Time Tracker
+![Real-Time Tracker Demo](./capturas/realtimetracker.gif)
+
+---
+
 ## 💼 Executive Summary (Why Buy This?)
 
 **Nuven** is not just a template; it is a fully functional, production-ready **SaaS (Software as a Service)** platform designed to modernize automotive detailing businesses.
@@ -95,28 +111,12 @@ Built on the **T3 Stack** philosophy for maximum type safety and developer produ
 
 ---
 
-## 📸 Feature Gallery
-
-### 🛒 Booking Flow
-![Booking Demo](./capturas/booking-flow.gif)
-
-### 📊 Dashboard
-![Dashboard Demo](./capturas/dashboard.gif)
-
-### 📊 Admin Dashboard
-![Admin Dashboard Demo](./capturas/adminDashboard.gif)
-
-### 📍 Real-Time Tracker
-![Real-Time Tracker Demo](./capturas/realtimetracker.gif)
-
----
-
 ## 🤝 Support & Handover
 
 Included with the sale:
 - **Full Source Code**: 100% ownership, no encrypted files.
 - **Database Schema**: SQL scripts to replicate the backend instantly.
 - **Assets**: All icons, images, and design tokens.
-- **Documentation**: Detailed guide on how to deploy to Netlify/Vercel (Free hosting).
+- **Documentation**: Detailed guide on how to deploy.
 
 ---

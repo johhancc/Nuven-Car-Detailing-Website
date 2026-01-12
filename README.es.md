@@ -1,17 +1,38 @@
 <div align="center">
-  <a href="./README.md"><strong>🇺🇸 Read in English</strong></a> | **🇪🇸 Leer en Español**
+  <a href="./README.md"><strong>🇺🇸 Read in English</strong></a> | **🇪🇸 Español**
 </div>
 
 # Nuven | Plataforma SaaS Premium para Detailing Automotriz
+
+[![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge)](https://reactjs.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-Backend-green?style=for-the-badge)](https://supabase.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-Styling-cyan?style=for-the-badge)](https://tailwindcss.com/)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)]()
 
 > **Una Solución SaaS Llave en Mano de Alto Rendimiento para la Industria del Detailing.**
 > *Combina estética de lujo con un potente CRM y Motor de Reservas.*
 
 ---
 
-## 💼 Resumen Ejecutivo (¿Por qué comprar esto?)
+## 📸 Galería de Funcionalidades
 
-**Nuven** no es solo una plantilla; es una plataforma **SaaS (Software como Servicio)** completamente funcional y lista para producción, diseñada para modernizar negocios de detailing y lavado de autos.
+### 🛒 Flujo de Reserva
+![Demo de Reserva](./capturas/booking-flow.gif)
+
+### 📊 Dashboard
+![Demo del Dashboard](./capturas/dashboard.gif)
+
+### 📊 Panel de Administración
+![Demo del Dashboard de Admin](./capturas/adminDashboard.gif)
+
+### 📍 Rastreador en Tiempo Real
+![Demo del Rastreador en Tiempo Real](./capturas/realtimetracker.gif)
+
+---
+
+## �💼 Resumen Ejecutivo (¿Por qué comprar esto?)
+
+**Nuven** no es solo una plantilla; es una plataforma **SaaS (Software como Servicio)** completamente funcional y lista para producción, diseñada para modernizar negocios de detailing automotriz.
 
 Construida con una filosofía "Mobile-First" y "Centrada en el Usuario", resuelve los tres mayores problemas de los talleres de detailing:
 1.  **Fricción en Reservas**: Reemplaza las llamadas manuales con una experiencia de compra fluida tipo Amazon.
@@ -20,7 +41,7 @@ Construida con una filosofía "Mobile-First" y "Centrada en el Usuario", resuelv
 
 **Perfecto para:**
 - Desarrolladores que buscan un proyecto de alto valor para revender a negocios locales.
-- Emprendedores que lanzan un marketplace tipo "Uber para Lavado de Autos".
+- Emprendedores que lanzan un marketplace tipo "Uber para Detailing".
 - Talleres de detailing existentes que quieren dominar su mercado local con tecnología superior.
 
 ---
@@ -44,7 +65,7 @@ Construida con una filosofía "Mobile-First" y "Centrada en el Usuario", resuelv
 - **Acceso Basado en Roles**: Roles seguros de Administrador vs. Usuario.
 
 ### 4. 🌍 Listo para Escalar
-- **Multilingüe (i18n)**: Cambio instantáneo entre **Inglés** y **Español**. Fácil de agregar más idiomas.
+- **Multilingüe (i18n)**: Cambio instantáneo entre **Inglés** y **Español** (Español). Fácil de agregar más.
 - **Backend Serverless**: Construido sobre **Supabase**. Cero mantenimiento de servidores, escala infinitamente y costo extremadamente bajo (Capa gratuita maneja 50k+ MAU).
 - **Edge Functions**: Pagos seguros y lógica compleja ejecutada en el borde (edge) para velocidad global.
 
@@ -54,16 +75,16 @@ Construida con una filosofía "Mobile-First" y "Centrada en el Usuario", resuelv
 
 La demo en vivo representa exactamente lo que recibirás. Tienes dos opciones de compra:
 
-### 1. Standard Delivery (As-Is)
-- **Price: $5,999 USD** *(Negotiable)*
-- You receive the full source code exactly as seen in the hosted demo.
-- Perfect for developers or agencies who want to handle the customization themselves.
+### 1. Entrega Estándar (Tal Cual)
+- **Precio: $5,999 USD** *(Negociable)*
+- Recibes el código fuente completo exactamente como se ve en la demo alojada.
+- Perfecto para desarrolladores o agencias que quieren encargarse de la personalización ellos mismos.
 
-### 2. Turnkey Service (Custom Setup)
-- **Add-on Fee: +$1,000 USD**
+### 2. Servicio Llave en Mano (Configuración Personalizada)
+- **Tarifa Adicional: +$1,000 USD**
 - **Yo me encargo de todo el rebranding por ti.**
 - Incluye: Actualización de todos los datos de contacto, logotipos, esquemas de color, traducciones i18n y tablas de precios para que coincidan con tu negocio específico.
-- Al final recibes: Una plataforma 100% lista para lanzar, entregada en 3-5 días.
+- Resultado: Una plataforma 100% lista para lanzar, entregada a ti en 3-5 días.
 
 ---
 
@@ -96,6 +117,6 @@ Incluido con la venta:
 - **Código Fuente Completo**: 100% de propiedad, sin archivos encriptados.
 - **Esquema de Base de Datos**: Scripts SQL para replicar el backend instantáneamente.
 - **Activos**: Todos los íconos, imágenes y tokens de diseño.
-- **Documentación**: Guía detallada sobre cómo desplegar en Netlify/Vercel (Hosting gratuito).
+- **Documentación**: Guía detallada sobre cómo desplegar.
 
 ---

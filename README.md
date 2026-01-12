@@ -60,12 +60,12 @@ Built with a "Mobile-First" and "User-Centric" philosophy, it solves the three b
 The live demo represents exactly what you will receive. You have two options for purchase:
 
 ### 1. Standard Delivery (As-Is)
-- **Price: $4,999 USD** *(Negotiable)*
+- **Price: $5,999 USD** *(Negotiable)*
 - You receive the full source code exactly as seen in the hosted demo.
 - Perfect for developers or agencies who want to handle the customization themselves.
 
 ### 2. Turnkey Service (Custom Setup)
-- **Add-on Fee: +$1,499 USD**
+- **Add-on Fee: +$1,000 USD**
 - **I will handle the complete rebranding for you.**
 - Includes: Updating all contact details, logos, color schemes, i18n translations, and pricing tables to match your specific business.
 - Result: A 100% ready-to-launch platform delivered to you within 3-5 days.

@@ -100,11 +100,14 @@ Built on the **T3 Stack** philosophy for maximum type safety and developer produ
 ### 🛒 Booking Flow
 ![Booking Demo](./capturas/booking-flow.gif)
 
+### 📊 Dashboard
+![Dashboard Demo](./capturas/dashboard.gif)
+
 ### 📊 Admin Dashboard
-![Admin Demo](./capturas/admin-dashboard.gif)
+![Admin Dashboard Demo](./capturas/admindashboard.gif)
 
 ### 📍 Real-Time Tracker
-![Tracker Demo](./capturas/tracking.gif)
+![Real-Time Tracker Demo](./capturas/realtimetracker.gif)
 
 ---
 

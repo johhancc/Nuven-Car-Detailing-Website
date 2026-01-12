@@ -27,6 +27,8 @@
 
 ### 📍 Rastreador en Tiempo Real
 ![Demo del Rastreador en Tiempo Real](./capturas/realtimetracker-opt.gif)
+<br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/YSdn7DR" data-context="false" ><a href="//imgur.com/a/YSdn7DR">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ---
 

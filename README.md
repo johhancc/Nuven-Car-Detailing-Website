@@ -17,16 +17,16 @@
 ## 📸 Feature Gallery
 
 ### 🛒 Booking Flow
-[![Watch Booking Demo](https://img.shields.io/badge/▶_Watch_Booking_Demo-007bff?style=for-the-badge&logo=google-play&logoColor=white)](./capturas/booking.mp4)
+![Booking Demo](./capturas/booking-flow-opt.gif)
 
 ### 📊 Dashboard
-[![Watch Dashboard Demo](https://img.shields.io/badge/▶_Watch_Dashboard_Demo-28a745?style=for-the-badge&logo=fastapi&logoColor=white)](./capturas/dashboard.mp4)
+![Dashboard Demo](./capturas/dashboard-opt.gif)
 
 ### 📊 Admin Dashboard
-[![Watch Admin Dashboard Demo](https://img.shields.io/badge/▶_Watch_Admin_Demo-6f42c1?style=for-the-badge&logo=adminer&logoColor=white)](./capturas/adminDashboard.mp4)
+![Admin Dashboard Demo](./capturas/adminDashboard-opt.gif)
 
 ### 📍 Real-Time Tracker
-[![Watch Real-Time Tracker Demo](https://img.shields.io/badge/▶_Watch_Tracker_Demo-dc3545?style=for-the-badge&logo=google-maps&logoColor=white)](./capturas/realtimetracker.mp4)
+![Real-Time Tracker Demo](./capturas/realtimetracker-opt.gif)
 
 ---
 

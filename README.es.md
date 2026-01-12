@@ -17,16 +17,16 @@
 ## 📸 Galería de Funcionalidades
 
 ### 🛒 Flujo de Reserva
-[![Ver Demo de Reserva](https://img.shields.io/badge/▶_Ver_Demo_Reserva-007bff?style=for-the-badge&logo=google-play&logoColor=white)](./capturas/booking.mp4)
+![Demo de Reserva](./capturas/booking-flow-opt.gif)
 
 ### 📊 Dashboard
-[![Ver Demo del Dashboard](https://img.shields.io/badge/▶_Ver_Demo_Dashboard-28a745?style=for-the-badge&logo=fastapi&logoColor=white)](./capturas/dashboard.mp4)
+![Demo del Dashboard](./capturas/dashboard-opt.gif)
 
 ### 📊 Panel de Administración
-[![Ver Demo Admin](https://img.shields.io/badge/▶_Ver_Demo_Admin-6f42c1?style=for-the-badge&logo=adminer&logoColor=white)](./capturas/adminDashboard.mp4)
+![Demo del Dashboard de Admin](./capturas/adminDashboard-opt.gif)
 
 ### 📍 Rastreador en Tiempo Real
-[![Ver Demo Rastreador](https://img.shields.io/badge/▶_Ver_Demo_Rastreador-dc3545?style=for-the-badge&logo=google-maps&logoColor=white)](./capturas/realtimetracker.mp4)
+![Demo del Rastreador en Tiempo Real](./capturas/realtimetracker-opt.gif)
 
 ---
 
